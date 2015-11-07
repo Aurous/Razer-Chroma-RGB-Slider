@@ -1,0 +1,14 @@
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.exe.config
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.exe
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.pdb
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\Corale.Colore.dll
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\log4net.dll
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\Corale.Colore.pdb
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\Corale.Colore.xml
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\log4net.xml
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.exe
+c:\users\ltrya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.pdb
