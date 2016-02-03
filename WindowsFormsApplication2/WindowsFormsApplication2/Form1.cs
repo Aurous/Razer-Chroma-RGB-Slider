@@ -47,10 +47,7 @@ namespace WindowsFormsApplication2
             var b = (byte)trackBar2.Value;
             var g = (byte)trackBar3.Value;
             var color = new Corale.Colore.Core.Color(r, b, g);
-            Corale.Colore.Razer.Mouse.Led led1 = Led.Logo;
-            Corale.Colore.Core.Mouse.Instance.SetLed(led1, color);
-            Corale.Colore.Razer.Mouse.Led led2 = Led.ScrollWheel;
-            Corale.Colore.Core.Mouse.Instance.SetLed(led2, color);
+            Corale.Colore.Core.Chroma.Instance.SetAll(color);
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
